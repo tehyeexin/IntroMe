@@ -11,4 +11,4 @@ Email: geminiyee2000@gmail.com
 
 # Picture
 
-![IMG_7731_mr159842428835312](https://user-images.githubusercontent.com/73182761/198642919-8d4fd373-61c1-4d00-82a4-b21934851c52.jpg)
+![IMG_7731_mr159842428835312](https://user-images.githubusercontent.com/73182761/198642919-8d4fd373-61c1-4d00-82a4-b21934851c52.jpg =120x150)
